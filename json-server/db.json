@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "quangnd2@rikkeisoft.com",
+      "password": "$2a$10$AOnTwLX6dRW.ynb1W6TV4uHux01LkciOFbLP6UlG9hXCI20L5666.",
+      "fullname": "Nguyễn Duy Quang",
+      "id": 1
+    },
+    {
+      "email": "quannm@gmail.com",
+      "password": "$2a$10$NmKkOTW4AKnxaGvTSSs0Nu/dzxVsaQQitcYFzSEyA0AlLzqHhtpfO",
+      "fullname": "Nguyễn Mạnh Quân",
+      "id": 2
+    },
+    {
+      "email": "vietanhdz@gmail.com",
+      "password": "$2a$10$9xnoEWb/jBl0Xt43Z0RZBe/4gChUYbe7W.MjxGNWQMTWaFwDeGggS",
+      "fullname": "Hoang Phu",
+      "id": 3
+    },
+    {
+      "email": "Helloworld@gmail.com",
+      "password": "$2a$10$fCbmWayTPZh7EWzc4IQN2.T.PzkyqMNgJ6Sjc55BHWG1H7o9MksfW",
+      "fullname": "Hello world",
+      "id": 4
+    }
+  ],
+  "students": [
+    {
+      "id": "SV001",
+      "studentName": "Nguyễn Văn A"
+    },
+    {
+      "id": "SV002",
+      "studentName": "Nguyễn Văn B"
+    }
+  ]
+}
